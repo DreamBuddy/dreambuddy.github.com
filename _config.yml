@@ -1,9 +1,9 @@
 # Site settings
 title: DreamBuddy Blog
-SEOTitle: 梦童的博客 | DreamBuddy Blog
+SEOTitle: 梦童的博客 | DreamBuddy's Blog
 header-img: img/home-bg.jpg
 email: 304511495@qq.com
-description: "iOS & Web developer."
+description: "我是一名iOS开发工程师，最近在开发Web程序，生命需要注入不同的色彩"
 keyword: "关键字"
 url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
