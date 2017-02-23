@@ -70,8 +70,8 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "喜欢原生APP给人的踏实感，也待见网页的灵巧性"
+sidebar-avatar:       # use absolute URL, seeing it's used in both `/` and `/about/`  /img/avatar-hux.jpg
 
 
 
@@ -90,10 +90,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Su",
-        href: "http://su.gallery/"
-    },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "淡泊明志",
+        href: "http://yuelixing.github.io/"
     }
 ]
