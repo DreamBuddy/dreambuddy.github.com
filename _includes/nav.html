@@ -19,11 +19,15 @@
                     <li>
                         <a href="{{ site.baseurl }}/">Home</a>
                     </li>
-                    {% for page in site.pages %}{% if page.title %}
+                    <!-- 默认的导航栏项目 注释掉了 -->
+                    <!-- {% for page in site.pages %}{% if page.title %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
-                    {% endif %}{% endfor %}
+                    {% endif %}{% endfor %} -->
+                    <li>
+                        <a href="{{ "DeerResume" | prepend: site.baseurl }}/">Resume</a>
+                    </li>
                 </ul>
             </div>
         </div>
